@@ -1,5 +1,4 @@
-.idea/
-.vs/
-.vscode/
-bin/
-obj/
+*
+
+!test.txt
+!hello-dotnet/
